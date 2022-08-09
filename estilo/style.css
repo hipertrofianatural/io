@@ -144,3 +144,7 @@ section#img03 {
     text-decoration: none;
 
 }
+
+.sectionnormal p {
+    font-size: 8px;
+}
