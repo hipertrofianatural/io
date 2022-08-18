@@ -70,9 +70,6 @@ section.imagem {
 
 section.imagem > p {
 
-    
-    
-    
 
 }
 
@@ -148,3 +145,7 @@ section#img03 {
 .sectionnormal p {
     font-size: 8px;
 }
+
+.sectionnormal img {
+    width: 200px;
+} 
