@@ -76,9 +76,10 @@ section.imagem > p {
 
 
 section#img01 {
-    background-image: url('../img01.png');
-    background-position: center center;
+    background-image: url('../img/C-Bum.jpg');
+    background-position: ;
     background-size: cover;
+    
 
 }
 
