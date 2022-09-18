@@ -152,3 +152,19 @@ section#img03 {
 .sectionnormal img {
     width: 200px;
 } 
+
+.p1 {
+    font-size: 25px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+
+    background-color: rgba(83, 83, 83, 0.37);
+    
+}
+
+.p2 {
+    padding-top: 0%;
+    padding-bottom: 0%;
+
+    background-color: rgba(83, 83, 83, 0.37);
+}
