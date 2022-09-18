@@ -156,11 +156,12 @@ section#img03 {
 .p {
     background-color: rgba(83, 83, 83, 0.37);
     border-radius: 5px;
-    width: 400px;
+    width: 325px;
     height: 100px;
     position: relative;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 
 .p1 {
