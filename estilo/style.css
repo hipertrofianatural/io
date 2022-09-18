@@ -153,18 +153,25 @@ section#img03 {
     width: 200px;
 } 
 
-.p1 {
-    font-size: 25px;
-    padding-top: 0%;
-    padding-bottom: 0%;
-
+.p {
     background-color: rgba(83, 83, 83, 0.37);
-    
+    border-radius: 5px;
+    width: 400px;
+    height: 100px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.p1 {
+    font-size: 22px;
+    padding-top: 0%;
+    padding-bottom: 1%;
+
 }
 
 .p2 {
     padding-top: 0%;
     padding-bottom: 0%;
 
-    background-color: rgba(83, 83, 83, 0.37);
 }
