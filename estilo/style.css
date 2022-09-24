@@ -185,3 +185,12 @@ section#img03 {
 
 }
 
+.normal2 {
+    text-align: center;
+    
+}
+
+.normal2 > img {
+    width: 50px;
+}
+
