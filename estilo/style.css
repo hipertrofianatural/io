@@ -190,7 +190,12 @@ section#img03 {
     
 }
 
-.normal2 > img {
-    width: 50px;
+.normal2 link img {
+        padding-top: 20%;
+        width: 1%;
+            
+        display: flex;
+        justify-content: center;
+        align-items: center;
 }
 
